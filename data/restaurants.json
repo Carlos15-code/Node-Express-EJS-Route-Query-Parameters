@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r1",
+    "name": "Test",
+    "address": "Teststreet 5, Testcity",
+    "cuisine": "Italian",
+    "website": "https://mytest.com",
+    "description": "It's awesome!"
+  },
+  {
+    "id": "r2",
+    "name": "Test 2",
+    "address": "Teststreet 10, Testcity 2",
+    "cuisine": "Indian",
+    "website": "https://mygreattest.com",
+    "description": "It's also amazing!"
+  },
+  {
+    "id": "r3",
+    "name": "Restaurant 3",
+    "address": "Awesomestreet 5, Mycity",
+    "cuisine": "German",
+    "website": "https://awesome.com",
+    "description": "It's amazing! Of course!"
+  },
+  {
+    "name": "Carlos Murillo",
+    "address": "Residencial Las Delicias, 6C al este, 1C al sur casa X2 729. Managua, Nicaragua",
+    "cuisine": "Nica",
+    "website": "https://www.taxacc.co",
+    "description": "Casdsa",
+    "id": "a1c2bbf5-cf1c-4b8d-9d16-bc6700136278"
+  }
+]
